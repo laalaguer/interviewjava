@@ -1,0 +1,8 @@
+简述一下我们常用的 HTTP REST架构中，PUT 和POST的区别，最好举个例子
+
+简述一下 AccessToken 与 RefreshToken 的使用区别，为什么使用了 AccessToken 还要有 RefreshToken?
+
+简述一下 CSRF 跨站请求伪造的原理？举个例子？防治方法是？
+
+Inner Class （内部类）的一般使用方法是什么？常用在哪个环境中？举个例子
+
